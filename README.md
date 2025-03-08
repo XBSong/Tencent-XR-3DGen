@@ -2,8 +2,8 @@
 
 <div align="center">
 <a href="https://arxiv.org/abs/2502.14247"><img src="https://img.shields.io/badge/ArXiv-2308.11573-004088.svg"/></a>
-<a href=https://huggingface.co/spaces/peterji/PandoraX><img src=https://img.shields.io/badge/%F0%9F%A4%97%20Demo-276cb4.svg height=22px></a>
-<a href=https://huggingface.co/peterji/Tencent_XR_3DGen><img src=https://img.shields.io/badge/%F0%9F%A4%97%20Models-d96902.svg height=22px></a>
+<a href=https://huggingface.co/spaces/peterji/PandoraX><img src=https://img.shields.io/badge/%F0%9F%A4%97%20Demo-276cb4.svg></a>
+<a href=https://huggingface.co/peterji/Tencent_XR_3DGen><img src=https://img.shields.io/badge/%F0%9F%A4%97%20Models-d96902.svg></a>
   
 <!-- <a href="https://youtu.be/guFg_Ppt1Ag">
 <img alt="Youtube" src="https://img.shields.io/badge/Video-Youtube-red"/>
