@@ -7,7 +7,7 @@
 <!-- <a href="https://youtu.be/guFg_Ppt1Ag">
 <img alt="Youtube" src="https://img.shields.io/badge/Video-Youtube-red"/>
 </a> -->
-<a ><img alt="PRs-Welcome" src="https://img.shields.io/badge/PRs-Welcome-red" /></a>
+<!-- <a ><img alt="PRs-Welcome" src="https://img.shields.io/badge/PRs-Welcome-red" /></a> -->
 <a href="https://github.com/Tencent/Tencent-XR-3DGen/stargazers">
 <img alt="stars" src="https://img.shields.io/github/stars/Tencent/Tencent-XR-3DGen" />
 </a>
