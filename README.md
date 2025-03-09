@@ -1,4 +1,4 @@
-# <div align = "center" style="font-size:0.5em">‌Tencent XR 3DGen Suite: Integrated Framework for High-Quality 3D Shape Generation, Texture Synthesis, and Character Customization</div>
+# <div align = "center">‌Tencent XR 3DGen Suite: Integrated Framework for High-Quality 3D Shape Generation, Texture Synthesis, and Character Customization</div>
 
 <div align="center">
 <a href="https://arxiv.org/abs/2502.14247"><img src="https://img.shields.io/badge/ArXiv-2308.11573-004088.svg"/></a>
