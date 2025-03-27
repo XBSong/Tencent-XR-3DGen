@@ -1,3 +1,23 @@
+# <div align = "center">‌Tencent XR 3DGen Suite: Integrated Framework for High-Quality 3D Shape Generation, Texture Synthesis, and Character Customization</div>
+
+<div align="center">
+<a href="https://arxiv.org/abs/2502.14247"><img src="https://img.shields.io/badge/ArXiv-2502.14247-004088.svg"/></a>
+<a href=https://huggingface.co/spaces/peterji/PandoraX><img src=https://img.shields.io/badge/%F0%9F%A4%97%20Demo-276cb4.svg></a>
+<a href=https://huggingface.co/peterji/Tencent_XR_3DGen><img src=https://img.shields.io/badge/%F0%9F%A4%97%20Models-d96902.svg></a>
+<!-- <a href="https://youtu.be/guFg_Ppt1Ag">
+<img alt="Youtube" src="https://img.shields.io/badge/Video-Youtube-red"/>
+</a> -->
+<!-- <a ><img alt="PRs-Welcome" src="https://img.shields.io/badge/PRs-Welcome-red" /></a> -->
+<a href="https://github.com/Tencent/Tencent-XR-3DGen/stargazers">
+<img alt="stars" src="https://img.shields.io/github/stars/Tencent/Tencent-XR-3DGen" />
+</a>
+<a href="https://github.com/Tencent/Tencent-XR-3DGen/network/members">
+<img alt="FORK" src="https://img.shields.io/github/forks/MAVIS-SLAM/ORB_SLAM3_MULTI?color=FF8000" />
+</a>
+<a href="https://github.com/Tencent/Tencent-XR-3DGen/issues">
+<img alt="Issues" src="https://img.shields.io/github/issues/Tencent/Tencent-XR-3DGen?color=0088ff"/>
+</a>
+</div>
 
 <p align="center">
   <img src="assets/3a92f986-096a-4ec3-a03b-8374ca5bffa1.gif" width="16%" />
