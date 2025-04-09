@@ -76,10 +76,15 @@ model weights and tech report can be downloaded from https://drive.google.com/dr
 ## Citation
 
 @article{yang2025pandora3d,
+
   title={Pandora3D: A Comprehensive Framework for High-Quality 3D Shape and Texture Generation},
+
   author={Yang, Jiayu and Shang, Taizhang and Sun, Weixuan and Song, Xibin and Chen, Ziang and Wang, Senbo and Chen, Shenzhou and Liu, Weizhe and Li, Hongdong and Ji, Pan},
+
   journal={arXiv preprint arXiv:2502.14247},
+
   year={2025}
+
 }
 
 ## License
